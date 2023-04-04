@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(255, 0, 0, 0.747);
+    height: 60px;
+    display: flex;
+    position: absolute;
+    width:199vh;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    border-radius: 16px;
+    border-style: solid;
+    border-color: black   
+}
+
+.foto1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    margin-left: 450px;
+    position: absolute;
+    border-radius: 16px;
+    border-style: solid;
+    margin-top:40vh;
+}
+
+
+.fundo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200vh;
+    margin-left: 0vh;
+    margin-top: 0;
+}
+
+.botao1{
+    display: flex;
+    position: absolute;
+    font-size: 50px;
+    margin-left: 178vh;
+    margin-top: 30vh;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(00,0,0.19);
+
+}
+
+.botao2{
+    display: flex;
+    position: absolute;
+    font-size: 50px;
+    margin-left: 178vh;
+    margin-top: 40vh;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(00,0,0.19);
+
+}
+.botao3{
+    display: flex;
+    position: absolute;
+    font-size: 50px;
+    margin-left: 178vh;
+    margin-top: 20vh;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(00,0,0.19);
+
+}
+
+.bah{
+    border-style: solid;
+    background-color: rgba(255, 0, 0, 0.603);
+    border-radius: 16px;
+}
+
+.bah:hover{
+    font-size: 55px;
+    border-radius: 0;
+
+}
+
